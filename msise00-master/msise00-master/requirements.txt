@@ -1,0 +1,12 @@
+setuptools
+nose
+python-dateutil
+pytz
+numpy
+scipy
+pandas
+xarray
+h5py
+astropy
+matplotlib
+seaborn
