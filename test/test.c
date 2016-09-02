@@ -6,7 +6,8 @@ int testarray(double in[],int n, double out[])
     int i;
     for (i = 0; i < n; i++)
     {
-        out[i] = in[i]*2.0;
+        out[i] = in[i]*2.0;// clone
+        int j;
     }
     return 1;
 }
