@@ -16,7 +16,7 @@ int main()
 {
     double kk[1000000];
     //kk = (double*)malloc(1000000*sizeof(double));
-    for (int j = 0; j < 1000000; j++)
+    for (int j = 0; j < 10000000; j++)
     {
         kk[j] = j;
     }
